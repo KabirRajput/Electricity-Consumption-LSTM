@@ -4,7 +4,7 @@ The goal is to use a recurrent neural network that must learn to predict a the e
 
 We first define a window size and then use LSTMS to model our system
 
-We further test out our model by changing the hyhperparameters-
+We further test out our model by changing the hyperparameters-
 batch_size
 num_epochs
 train_val_ratio
